@@ -1,5 +1,12 @@
 # Azure Stay CP372 Final Project
 
+## 👥 Team Members
+| No. | Name | Student ID |
+|-----|------|-----------|
+| 1 | นายบัญญวัต มณีชัย | 66102010143 |
+| 2 | นายประภากร คล้องโท้ | 66102010144 |
+| 3 | นายรพีภัทร อุ่นคำ | 66102010152 |
+
 โปรเจ็กต์นี้จัดทำสำหรับวิชา **CP372 Data Analytics and Business Intelligence**  
 หัวข้อ: **Channel Profitability & Distribution Cost Analysis for Azure Stay**
 
