@@ -1,0 +1,6 @@
+rate_code_id,rate_name,is_commissionable
+RT_RACK,Best Available Rate,True
+RT_PROMO,Promotional Rate,True
+RT_CORP,Corporate Rate,False
+RT_PACK,Package Rate,True
+RT_ADV,Advance Purchase,True
