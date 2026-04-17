@@ -1,7 +1,0 @@
-channel_id,channel_name,channel_type,commission_model,default_commission_rate,contract_owner
-CH_01,Direct Website,Direct,Flat Fee,0.0,Alice
-CH_02,Booking.com,OTA,Percentage,0.18,Bob
-CH_03,Expedia,OTA,Percentage,0.2,Bob
-CH_04,Walk-in,Direct,Flat Fee,0.0,Alice
-CH_05,Corporate Sales,B2B,Net Rate,0.08,Carol
-CH_06,Travel Agent,B2B,Flat Fee,250.0,Carol
