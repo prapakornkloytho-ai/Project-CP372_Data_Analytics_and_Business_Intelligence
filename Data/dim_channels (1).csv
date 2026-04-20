@@ -1,0 +1,7 @@
+channel_id,channel_name,channel_type,commission_model,default_commission_rate,contract_owner
+CH_01,Booking.com,OTA,Percentage,0.15,Alice
+CH_02,Expedia,OTA,Percentage,0.18,Bob
+CH_03,Direct Web,Direct,Flat Fee,0.0,Charlie
+CH_04,GDS (Amadeus),Wholesale,Flat Fee,500.0,Diana
+CH_05,Hotelbeds,Wholesale,Merchant,0.2,Eve
+CH_06,Walk-in,Direct,Flat Fee,0.0,Charlie

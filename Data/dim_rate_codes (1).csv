@@ -1,0 +1,5 @@
+rate_code_id,rate_name,is_commissionable
+RT_RACK,Rack Rate,True
+RT_CORP,Corporate,True
+RT_PROMO,Promotional,True
+RT_NET,Wholesale Net,False
