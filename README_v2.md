@@ -412,4 +412,3 @@ jupyter notebook notebooks/azure_stay_channel_profitability_analysis.ipynb
 
 ---
 
-*Modified from Bill Schmarzo's Machine Learning Canvas and Jasmine Vasandani's Data Science Workflow Canvas for SWU*
