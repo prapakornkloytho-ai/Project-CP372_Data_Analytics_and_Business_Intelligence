@@ -1,4 +1,4 @@
-# 🏨 Azure Stay Hotel — การวิเคราะห์กำไรตามช่องทางการจอง
+#  Azure Stay Hotel — การวิเคราะห์กำไรตามช่องทางการจอง
 ### ปัญหา 2: ต้นทุนการกระจายสินค้าสูง (High Distribution Costs)
 
 > **กลุ่ม:** 143, 144, 152  
@@ -390,4 +390,4 @@ jupyter notebook notebooks/azure_stay_channel_profitability_analysis.ipynb
 
 ---
 
-*Modified from Bill Schmarzo's Machine Learning Canvas and Jasmine Vasandani's Data Science Workflow Canvas for SWU*
+
