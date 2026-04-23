@@ -7,7 +7,7 @@
 
 ---
 
-## 📋 สารบัญ
+##  สารบัญ
 1. [Data Analytics Project Canvas (7 ช่อง)](#0-data-analytics-project-canvas)
 2. [ปัญหาทางธุรกิจ — 1 Pain Point](#1-ปัญหาทางธุรกิจ--1-pain-point)
 3. [วัตถุประสงค์แบบ SMART](#2-วัตถุประสงค์แบบ-smart)
