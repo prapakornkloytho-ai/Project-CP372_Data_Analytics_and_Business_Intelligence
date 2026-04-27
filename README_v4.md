@@ -460,7 +460,7 @@ Heatmap แสดง % commission ตาม Channel × Rate Code
 
 > วิเคราะห์และสร้าง Dashboard ด้วย Power BI
 
-
+---
 ## 8. โครงสร้างโปรเจกต์
 
 ```
